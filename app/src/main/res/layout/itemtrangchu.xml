@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp"
+    android:layout_margin="4dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ln_iteam_click"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/img_tc"
+            android:layout_width="200dp"
+            android:layout_height="120dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/baitap1" />
+        <LinearLayout
+            android:paddingBottom="4dp"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="8dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/txt_title_tc"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingVertical="4dp"
+                android:text="bài tập 1" />
+            <View
+                android:layout_width="match_parent"
+                android:background="#dfdfdf"
+                android:layout_height="1px"/>
+            <TextView
+                android:id="@+id/txt_content_tc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:paddingVertical="4dp"
+                android:text="bài tập 1" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

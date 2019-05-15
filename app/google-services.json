@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966454279606",
+    "firebase_url": "https://gymer-2c875.firebaseio.com",
+    "project_id": "gymer-2c875",
+    "storage_bucket": "gymer-2c875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966454279606:android:ad45da3197d746a4",
+        "android_client_info": {
+          "package_name": "com.truongvu.gymer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966454279606-8sm3v11g6dlas6mag2tocp3s6utf3nuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.truongvu.gymer",
+            "certificate_hash": "97c8cf7dd630350505bb048e44ceaad213e0d190"
+          }
+        },
+        {
+          "client_id": "966454279606-atgr8k8u72798fp0qm9iff0hib543ec2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcYkJeig1a9g3UlFw71pU9xihxDquUa4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966454279606-atgr8k8u72798fp0qm9iff0hib543ec2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

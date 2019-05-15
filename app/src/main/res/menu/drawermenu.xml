@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_tc" android:title="Trang chủ" android:icon="@drawable/ic_home_black_24dp" />
+    <item android:id="@+id/item_tk" android:title="Tài khoản" android:icon="@drawable/ic_person_black_24dp" />
+    <item android:id="@+id/item_bt" android:title="Bài tập ở nhà" android:icon="@drawable/ic_format_list_bulleted_black_24dp"/>
+    <item android:id="@+id/item_ad" android:title="Quản lý bài tập" android:icon="@drawable/ic_account_balance_wallet_black_24dp"/>
+    <item android:id="@+id/item_dx" android:title="Đăng xuất" android:icon="@drawable/ic_logout_black_24dp"/>
+</menu>
